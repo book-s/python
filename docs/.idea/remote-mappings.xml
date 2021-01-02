@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@2898fa04-8d9d-47cd-b75b-34d863800292" />
+        <remote-mappings server-id="python@sftp://python@192.168.120.8:22/home/python/.virtualenvs/docs/bin/python3" />
+        <remote-mappings server-id="python@78e81e7a-c62a-4764-8622-20f3214752a3" />
+        <remote-mappings server-id="python@sftp://python@192.168.120.8:22/home/python/.virtualenvs/payfaka/bin/python2" />
+        <remote-mappings server-id="python@dd0b5ec7-1ff4-4801-8073-a0cb3fff2d5b" />
+      </list>
+    </list>
+  </component>
+</project>

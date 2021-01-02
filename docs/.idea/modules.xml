@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/docs.iml" filepath="$PROJECT_DIR$/.idea/docs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../PythonObject/payfaka/.idea/payfaka.iml" filepath="$PROJECT_DIR$/../../PythonObject/payfaka/.idea/payfaka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../PythonObject/pyadmin/.idea/pyadmin.iml" filepath="$PROJECT_DIR$/../../PythonObject/pyadmin/.idea/pyadmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../PythonObject/tornado-rest/.idea/tornado-rest.iml" filepath="$PROJECT_DIR$/../../PythonObject/tornado-rest/.idea/tornado-rest.iml" />
+    </modules>
+  </component>
+</project>

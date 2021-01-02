@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="tornado-rest" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="docs">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/python/docs" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="payfaka">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/python/payfaka" local="$PROJECT_DIR$/../../PythonObject/payfaka" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pyadmin">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/python/pyadmin" local="$PROJECT_DIR$/../../PythonObject/pyadmin" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tornado-rest">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/python/tornado-rest" local="$PROJECT_DIR$/../../PythonObject/tornado-rest" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
