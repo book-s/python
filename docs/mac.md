@@ -73,7 +73,7 @@
 >```
 ### PyCharm 2020.3.2永久激活
 
-[激活程序下载]()
+[激活程序下载](https://github.com/book-s/python/blob/master/docs/Jetbrains2020.3%E5%8F%8A%E4%BB%A5%E4%B8%8A%E7%89%88%E6%9C%AC%E6%BF%80%E6%B4%BB%E8%A1%A5%E4%B8%81_520xiazai.zip)
 
 ### PyCharm 2019.3.3激活破解教程（永久)
 >
