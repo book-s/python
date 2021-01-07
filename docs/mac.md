@@ -71,6 +71,9 @@
 >cd ~/Library/Caches
 >rm -rf PyCharm2019.3
 >```
+### PyCharm 2020.3.2永久激活
+
+[激活程序下载]()
 
 ### PyCharm 2019.3.3激活破解教程（永久)
 >
