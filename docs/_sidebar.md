@@ -1,7 +1,7 @@
 - **说明文档**
 	- [Docsify使用]()
 	- [Ubuntu](ubuntu.md)
-	- [MacPython环境配置](mac.md)
+
 
 - **VUE**
 	- [VUE开发环境搭建](vue.md)
